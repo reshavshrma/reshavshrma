@@ -1,6 +1,10 @@
 <!-- Typing SVG Banner -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Hi%2C+I'm+Reshav+Sharma;B.Tech+in+Information+Technology;Web+Developer+%7C+Deep+Learning+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reshavshrma&label=Profile%20Views&color=0e75b6&style=flat" alt="reshavshrma" />
+</p>
+
 # 👋 Hi, I’m Reshav Sharma  
 
 - 🎓 B.Tech in Information Technology  
